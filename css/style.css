@@ -1,0 +1,62 @@
+body {
+	background: url("https://36ac30c13130509695cc52edff7cc9aaed02b916.googledrive.com/host/0B-hZ9xIoiYFbcXhQejBRLXR6NGc/dark_embroidery.png");
+	
+	color: white;
+}
+
+#timeleft {
+	margin: 0;
+	padding: 0;
+	margin-top: 20%
+	
+}
+
+.break {
+
+}
+
+.container-adjuster {
+	width: 100%;
+}
+
+.container-timer {
+	margin: 0 auto;
+
+	border: solid 5px #1a75ff;
+	border-radius: 100%;
+	width: 300px;
+	height: 300px;
+	
+	/*background-color: #1a75ff;
+	background-size: 10% 10%;*/
+	
+}
+
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.session {
+
+}
+
+.timer-type {
+	margin: 0;
+	padding: 0;
+	margin-top: 15%
+		
+		
+}
+
+.title-adj {
+	
+}
+
+.title-main {
+	
+}
